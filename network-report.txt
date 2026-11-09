@@ -1,0 +1,4 @@
+=== Network Report ===
+IP Address: 172.27.175.124
+Default Gateway: 172.27.160.1
+Google Ping Result: Connected successfully (0% packet loss)
